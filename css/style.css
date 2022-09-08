@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+input{
+    width: 50px;
+    color:aqua;
+}
+
+div{
+    margin: .5rem;
+}
+.container{
+    display: flex;
+    justify-content:space-around;
+    flex-wrap:wrap;
+}
